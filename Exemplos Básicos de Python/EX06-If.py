@@ -10,3 +10,5 @@ else: # Se nenhuma das condições anteriores retornarem "verdadeiro"
     bonus = 0 # Não ganha bonus
 
 print('Bonus total de: ', bonus)
+
+print('FIM')

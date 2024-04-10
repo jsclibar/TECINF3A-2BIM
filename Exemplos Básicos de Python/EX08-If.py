@@ -8,4 +8,6 @@ elif media >= 4 and reprovadoFalta == False: # Observe o uso da condição and
 else:
     print('Aluno reprovado')
 
+print('FIM')
+
 # Importante: Também pode ser usado o operador lógico or.
