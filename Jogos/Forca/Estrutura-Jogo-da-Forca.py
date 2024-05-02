@@ -29,9 +29,9 @@ A partir desse exemplo de código, crie um jogo da forca que funcione da seguint
 
 Melhorias para realizar após os itens A, B e C estarem devidademente implantados:
 
-    A. As changes devem aumentar ou diminuir de acordo com a quantidade de letras das palavras.
-    B. O jogo deve sempre informar ao usuário a quantidade de changes disponíveis.
-    C. Criar um sistema de pontução de acordo com o desempenho do jogador.
+    A. As chances devem aumentar ou diminuir de acordo com a quantidade de letras das palavras.
+    B. O jogo deve sempre informar ao usuário a quantidade de chances disponíveis.
+    C. Criar um sistema de pontuação de acordo com o desempenho do jogador.
     D. Após a finalização da partida, perguntar se o usuário deseja jogar de novo.
     E. FAÇA A IMPLANTAÇÃO DE UM NOVO RECURSO DE SUA ESCOLHA.
 
