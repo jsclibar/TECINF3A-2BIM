@@ -76,4 +76,4 @@ while True:
 
     jogar_novamente = input('Deseja iniciar outra rodada? (s/n): '.lower()) # Pergunta se o jogador quer iniciar outra partida
     if jogar_novamente != 's': # Se a escolha for algo diferente de s (sim)...
-        break # Esse break encerra o while que controla a repetição do jogo inteiro
+        break # Esse break encerra o while que controla a repetição do jogo inteiro.
